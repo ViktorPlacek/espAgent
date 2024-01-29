@@ -27,7 +27,7 @@
 
 ## Platform
 
- Uses PlatformIO framework in Visual Studio Code
- Writen in C++ v11
- Currently tested only against D1 Mini ESP8266 module
- Uses Arduino libraries
+ - Uses PlatformIO framework in Visual Studio Code
+- Writen in C++ v11
+- Currently tested only against D1 Mini ESP8266 module
+- Uses Arduino libraries
