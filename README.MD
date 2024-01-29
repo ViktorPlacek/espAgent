@@ -28,6 +28,15 @@
 ## Platform
 
  - Uses PlatformIO framework in Visual Studio Code
-- Writen in C++ v11
-- Currently tested only against D1 Mini ESP8266 module
-- Uses Arduino libraries
+ - Writen in C++ v11
+ - Currently tested only against D1 Mini ESP8266 module
+ - Uses Arduino libraries
+ 
+## Installation
+
+ - clone repository
+ - install Visual Studio Code
+ - install PlatformIO Extension in VS Code
+ - click on PlatformIO icon in left icon strip
+ - select Open Folder and choose root of your repository (it should have file platformio.ini file in it)
+ - click on Build and pray
